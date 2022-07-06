@@ -2,7 +2,7 @@ body {
     margin: 0%;
     padding: 0%;
     font-family: 'Finlandica', sans-serif;
-    font-family: 'Lobster', cursive;
+    /* font-family: 'Lobster', cursive; */
 }
 
 .container {
@@ -150,6 +150,7 @@ input:focus {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     padding: 20px;
     border-radius: 10px;
+    /* background-color: rgb(208, 248, 255); */
 }
 
 h3 {
@@ -164,7 +165,7 @@ h3 {
     text-align: center;
     border-bottom: 0;
     /* background-color: aqua; */
-    background-image: linear-gradient(rgb(10, 245, 225), black);
+    background-image: linear-gradient(rgb(10, 245, 225), rgb(226, 226, 226));
     width: 75%;
     padding: 50px;
     border-radius: 10px;
@@ -180,7 +181,7 @@ h3 {
     padding: 10px 10px 10px 10px;
     border-radius: 2px;
     font-weight: bold;
-    font-size: 18;
+    font-size: 16px;
     color: rgb(6, 237, 245);
 }
 
